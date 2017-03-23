@@ -11,3 +11,6 @@ Then just click send and it'll generate some text which you can copy to notepad 
 
 After creating file you can send it to your smartphone and using supermemo app (from google store) you're able to import your vocab bank
 there.  
+
+If you don't want to download it but just use it you can do it here:
+https://mattyx22.github.io/Supermemo-Vocab-Generator-/start.html
